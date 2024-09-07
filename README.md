@@ -7,3 +7,6 @@ Video Frame Interpolation is a technique used to increase the frame rate of a vi
 # Structure
 ![paper_figure0](https://github.com/user-attachments/assets/9a283809-d13b-410b-a252-2e77b10ed3f8)
 Overview of video frame interpolation with adaptive separable convolutions
+
+# Result
+![paper_result](https://github.com/user-attachments/assets/a4969980-edb5-4df7-95ac-13a43540a105)
